@@ -5,9 +5,9 @@
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <PackageId>ActionNuget</PackageId>
     <PackageProjectUrl>https://github.com/nnyegaard/actionsnuget</PackageProjectUrl>
-    <RepositoryUrl>https://github.com/nnyegaard/actionsnuget</RepositoryUrl>
+    <RepositoryUrl></RepositoryUrl>
     <RepositoryType>git</RepositoryType>
-    <PackageVersion>1.0.2</PackageVersion>
+    <PackageVersion>1.0.3</PackageVersion>
   </PropertyGroup>
 
 </Project>
