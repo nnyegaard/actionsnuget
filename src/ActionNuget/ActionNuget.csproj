@@ -3,10 +3,11 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <PackageId>nnyegaard.ActionNuget</PackageId>
+    <PackageId>ActionNuget</PackageId>
     <PackageProjectUrl>https://github.com/nnyegaard/actionsnuget</PackageProjectUrl>
     <RepositoryUrl>https://github.com/nnyegaard/actionsnuget</RepositoryUrl>
     <RepositoryType>git</RepositoryType>
+    <PackageVersion>1.0.1</PackageVersion>
   </PropertyGroup>
 
 </Project>
