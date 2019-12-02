@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26124.0
+MinimumVisualStudioVersion = 15.0.26124.0
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{A4F084FE-6A14-45B1-B68C-73D56821526A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{2A1441E9-FF00-45F4-B9A9-FD3D7CDC9A6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ActionNuget", "src\ActionNuget\ActionNuget.csproj", "{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE} = {A4F084FE-6A14-45B1-B68C-73D56821526A}
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Debug|x64.Build.0 = Debug|Any CPU
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Debug|x86.Build.0 = Debug|Any CPU
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Release|x64.ActiveCfg = Release|Any CPU
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Release|x64.Build.0 = Release|Any CPU
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Release|x86.ActiveCfg = Release|Any CPU
+		{2514B2D0-BDBF-4B79-AEBE-292E71DD2AEE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>nnyegaard.ActionNuget</PackageId>
+    <PackageProjectUrl>https://github.com/nnyegaard/actionsnuget</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/nnyegaard/actionsnuget</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
